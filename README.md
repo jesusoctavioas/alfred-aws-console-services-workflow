@@ -4,6 +4,8 @@ Very simple workflow to quickly open up AWS Console Services in your browser.
 
 ![AWS Console Services - Alfred Workflow Demo](demo.gif)
 
+#### Powerpack
+For running the advance workflows requires to buy the powerpack, not optional.
 ### Installation
 - [Download the latest release](https://github.com/rkoval/alfred-aws-console-services-workflow/releases)
 - Open the downloaded file in Finder
